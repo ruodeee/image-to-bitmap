@@ -1,3 +1,2 @@
 # image-to-bitmap
-## Setup
-## Commands
+Turn images into bitmap font
